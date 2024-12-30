@@ -10,7 +10,7 @@ function firstWord(s) {
     } else {
         return s.slice(0, spaceIndex);
     }
-}
+
 
 console.log(firstWord('see and stop'));  
             
